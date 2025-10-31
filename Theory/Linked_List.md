@@ -35,3 +35,11 @@ Each node has its own data that remembers the value passed.
 self.next is the pointer/reference to the next node in the list.
 
 Initially, we set it to None because when the node is created, it’s not connected to anything yet.
+
+## Insertion of linked list
+
+so when we need to add a new node any where in the list
+so we need insertion of linked list 
+
+to insert a new node at the front we create 
+the new node and 
