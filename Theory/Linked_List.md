@@ -42,4 +42,7 @@ so when we need to add a new node any where in the list
 so we need insertion of linked list 
 
 to insert a new node at the front we create 
-the new node and 
+the new node and piont to his next reference to 
+current head 
+then we update the head to be this new node 
+
