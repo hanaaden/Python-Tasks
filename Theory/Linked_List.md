@@ -9,6 +9,11 @@ so linked list is collection of nodes linked to each other and node is basic  un
 - refences / pointer : a way to connect this node to another node 
 nodes are not just a value its value plus connection 
 
+linked list is good implementing a linear data structure 
+so they dont need to have fixed size due to 
+their like chain structure 
+some cons are operations on linked list is 
+slow 
 so let we create a node class 
 ```py
 # creating node 
